@@ -6,7 +6,7 @@
 - **[Add your name too ➕](https://github.com/nob2x/NOB2X/edit/master/README.md)**
 
 ### Companies
-
+- Bitcoin Nedir?(https://bitcoinnedir.info) - Turkish biggest bitcoin informations platform
 - [99Bitcoins](https://99bitcoins.com) - Bitcoin blog and information site
 - [2Bitcoins](https://2bitcoins.ru) - Russian Bitcoin news and mining portal
 - [Acinq](https://acinq.co) - Bitcoin LN scalability provider
